@@ -1,4 +1,4 @@
-Shader "Custom/Water"
+Shader "Custom/Ground"
 {
     Properties
     {
