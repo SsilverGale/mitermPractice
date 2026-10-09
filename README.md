@@ -3,6 +3,8 @@ Now complete!
 Shader 1: Water
 Water is a shader graph that is reflective and rises and falls
 
+This checks off the vertex shader, time based shader, reflection shader, and fragment shaders
+
 Vetex Shader Part of graph
 <img width="932" height="507" alt="WaterVertex" src="https://github.com/user-attachments/assets/bcbcf611-809c-40b2-9ba7-b22c3f9d604f" />
 Fragment Part of graph
@@ -12,6 +14,8 @@ Shader 2: Leaves
 
 Vertex shader that moves with time on all 3 axis
 
+This checks off no new catagories
+
 Leaf Vertex
 <img width="937" height="522" alt="LeafVertex" src="https://github.com/user-attachments/assets/bdf0b7be-f937-4911-b635-9bc528d1659c" />
 
@@ -20,6 +24,10 @@ Leaf Fragment
 
 
 Shader 3: Diffuse lighting with specular
+
+I used this for the ground and the guy
+
+This checks off the lighting implementation
 
 I did just retype the code from the slides out by hand:
 
