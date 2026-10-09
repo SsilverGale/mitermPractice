@@ -1,14 +1,15 @@
 Now complete!
 
 Shader 1: Water
-Water is a shader graph that is reflective and rises and falls
+Water is a shader graph that is reflective and rises and falls. I also lerped between 2 different offest UVs to make the water look like it was flowing
 
-This checks off the vertex shader, time based shader, reflection shader, and fragment shaders
+This checks off the vertex shader, time based shader, reflection shader, fragment shader, and UV shader
 
 Vetex Shader Part of graph
 <img width="932" height="507" alt="WaterVertex" src="https://github.com/user-attachments/assets/bcbcf611-809c-40b2-9ba7-b22c3f9d604f" />
 Fragment Part of graph
-<img width="1052" height="492" alt="WaterFragment" src="https://github.com/user-attachments/assets/e031b8f4-c1a3-4d52-9597-aafe57366ce1" />
+<img width="1052" height="492" alt="WaterFragment" src="https://github.com/user-attachments/assets/ec78130e-2cff-42d6-a340-dce3aaf6709c" />
+
 
 Shader 2: Leaves
 
